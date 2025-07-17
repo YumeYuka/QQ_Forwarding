@@ -22,10 +22,10 @@ defineProps<{ msg: string }>()
 
 
   <p>
-    活跃用户请选择
+    活跃用户选择
     <a href="https://qm.qq.com/q/pKuFysMZs4" target="_blank">
       伊甸园
-    </a> 群；仅寻求帮助请选择 <a href="https://qm.qq.com/q/5MHCYXQQZG" target="_blank">
+    </a> 群；仅疑问选择 <a href="https://qm.qq.com/q/5MHCYXQQZG" target="_blank">
     帮助
   </a> 群。
   </p>
@@ -34,7 +34,7 @@ defineProps<{ msg: string }>()
       伊甸园
     </a> 群组(ps: <a href="https://www.yuanshen.com" target="_blank">
     答案
-  </a>)将不会讨论任何有关刷机、root等内容，寻求帮助解答问题请添加 <a href="https://qm.qq.com/q/5MHCYXQQZG"
+  </a>)将不会讨论任何有关刷机、root等内容，解答疑问请添加 <a href="https://qm.qq.com/q/5MHCYXQQZG"
                                                                                    target="_blank">
     帮助
   </a>群组。
