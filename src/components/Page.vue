@@ -18,8 +18,13 @@ defineProps<{ msg: string }>()
     <a href="https://qm.qq.com/q/5MHCYXQQZG" target="_blank">
       <button type="button">帮助</button>
     </a>
-    <a href="https://discord.gg/RQBBVhSCa5" target="_blank">
-      <button type="button">频道</button>
+    <div style="height: 20px;"></div> <!-- 添加间隔 -->
+    <a href="https://discord.gg/RQBBVhSCa5" target="_blank"
+       style="margin-right: 10%;">
+      <button type="button">Discord</button>
+    </a>
+    <a href="https://pd.qq.com/s/91t3v4mr3" target="_blank">
+      <button type="button">QQ频道</button>
     </a>
   </div>
 
