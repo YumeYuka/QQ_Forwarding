@@ -14,7 +14,7 @@ defineProps<{ msg: string }>()
     <a href="https://qm.qq.com/q/pKuFysMZs4" target="_blank"
        style="margin-right: 10%;">
       <button type="button">伊甸园</button>
-    </a>
+    </a>git config --global --add safe.directory Y:/Github/QQ_Forwarding
     <a href="https://qm.qq.com/q/5MHCYXQQZG" target="_blank">
       <button type="button">帮助</button>
     </a>
